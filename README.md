@@ -55,7 +55,8 @@ More repositories available on my GitHub profile.
 ---
 
 📊 GitHub Statistics  
-(You can add a stats card here later if you want.)
+(https://github-readme-stats.vercel.app/api?username=thayl0w&show_icons=true&theme=default)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=thayl0w&layout=compact&theme=default)
 
 ---
 
