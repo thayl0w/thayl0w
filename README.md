@@ -56,7 +56,10 @@ More repositories available on my GitHub profile.
 
 📊 GitHub Statistics  
 (https://github-readme-stats.vercel.app/api?username=thayl0w&show_icons=true&theme=default)
+<<<<<<< HEAD
 (https://github-readme-stats.vercel.app/api/top-langs/?username=thayl0w&layout=compact&theme=default)
+=======
+>>>>>>> cdc61410445f223b002951f087c9174883740661
 
 ---
 
